@@ -23,7 +23,7 @@ Modify autoassign.py's following fields
 
  #### Step 3. 
  
- Save autoassign in your scripts directory. This can be anywhere, I reccommend putting iton a server that is always running. Mine is in /root/scr/autoassign.py
+ Save autoassign in your scripts directory. This can be anywhere, I reccommend putting it on a server that is always running. Mine is in /root/scr/autoassign.py
  
  #### Step 4. 
  

@@ -1,5 +1,5 @@
 # Zendesk-Auto-Assign
-This is a python script which you can connect to Zendesk, to auto assign tickets. This is a feature that Zendesk does not have.
+This is a python script which you can connect to Zendesk, to randomly auto assign tickets. This is a feature that Zendesk does not have. It is sometimes called round robin assignment.
 
 
 # Installation
